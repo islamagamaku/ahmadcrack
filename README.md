@@ -15,8 +15,8 @@ $ pip2 install wheel
 
 $ pkg install git
 
-$ git clone https://github.com/MRV1N5/hekel
+$ git clone https://github.com/MRV1N5/VipCrack
 
-$ cd hekel
+$ cd VipCrack
 
 $ python2 darkhack.py
