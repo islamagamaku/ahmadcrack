@@ -9,9 +9,9 @@ $ pip2 install yagmail
 
 $ pip2 install request
 
-$ pip2 install wheel
-
 $ pip2 install --upgrade pip
+
+$ pip2 install wheel
 
 $ pkg install git
 
