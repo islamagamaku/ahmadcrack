@@ -19,4 +19,4 @@ $ git clone https://github.com/MRV1N5/VipCrack
 
 $ cd VipCrack
 
-$ python2 darkhack.py
+$ python2 darkid.py
